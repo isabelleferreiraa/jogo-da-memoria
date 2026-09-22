@@ -118,8 +118,6 @@ jogo-da-memoria/
 
 ## Integrantes
 
-**FIAP — Checkpoint 4 de Pensamento Computacional**
-
 - Isabelle Ferreira Neri Feitoza — RM573507
 - Marina Fernandes Gomes Mesquita — RM571265
 - Milena Silva Conegin — RM568923
